@@ -7,6 +7,7 @@ This is just a prank project used to tease some of our friends in online classes
 This uses selenium webdriver to send request to server and manipulage dom elements.
 
 Prerequirements:
+
     Firefox Browser should be installed in your system
 
     Need to have python instlled in your system and set in path
@@ -17,7 +18,7 @@ Prerequirements:
     To install selenium
           Run from terminal
                 pip install selenium
-    To install pip 
+    To install pip
           python get-pip.py
 
     To run the project navigate to PasswordChecker directory and on terminal run
