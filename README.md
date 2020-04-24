@@ -19,7 +19,7 @@ Prerequirements:
           Run from terminal
                 pip install selenium
     To install pip
-          python get-pip.py
+          https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
 
     To run the project navigate to PasswordChecker directory and on terminal run
 
