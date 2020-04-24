@@ -71,6 +71,7 @@ def main():
             pwd_changed, name, pwd = check_password_change(driver,request_url)
             if pwd_changed is False:
                 file.write(name + "   " + id + "\n")
+        driver.close()
 
 
 if __name__ == '__main__':
